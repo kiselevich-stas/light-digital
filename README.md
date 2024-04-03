@@ -8,14 +8,14 @@
 аналогичный инструмент).
 
 Начальная структура дерева:
-*- Dir 1
-*-- Dir 1-1
-*--- File 1-1-1
-*-- File 1-2
-*- Dir 2
-*-- Dir 2-1
-*-- File 2-2
-*- File 2
+*- Dir 1<br>
+*-- Dir 1-1<br>
+*--- File 1-1-1<br>
+*-- File 1-2<br>
+*- Dir 2<br>
+*-- Dir 2-1<br>
+*-- File 2-2<br>
+*- File 2<br>
 
 Примерный вид приложения:
 [https://files-cdn.anketolog.ru/2022/05/04/8bd33946254db05e220493913d33e170.png](https://raw.githubusercontent.com/kiselevich-stas/light-digital/main/photo_5217459562205010176_w.jpg)
