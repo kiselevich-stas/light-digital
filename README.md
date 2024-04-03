@@ -18,7 +18,7 @@
 - File 2<br>
 
 Примерный вид приложения:
-[https://files-cdn.anketolog.ru/2022/05/04/8bd33946254db05e220493913d33e170.png](https://raw.githubusercontent.com/kiselevich-stas/light-digital/main/photo_5217459562205010176_w.jpg)
+![Image alt](https://raw.githubusercontent.com/kiselevich-stas/light-digital/main/photo_5217459562205010176_w.jpg)
  
 Основные требования:
 - аккуратность, чистота кода
